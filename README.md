@@ -1,8 +1,29 @@
-### Hi there 👋
-### I am Sreehari
+```
+const name = "Sreehari";
 
-- 👯 I’m looking to collaborate on Educational Projects
-- 🤔 I’m looking for help with Advanced Python and stuff always and I solve it just through Youtube.
-- 💬 Ask me anything about programming languages and tech related content.
-- 📫 How to reach me: <a href="https://github.com/SreehariTheProgrammer/">Github</a>, <a href="mailto:sreehariaaryan@gmail.com">Mail</a>
-- 😄 Pronouns: He/Him
+const fullname = "SreehariS";
+
+const nickname = "Progremmer or Python";
+
+const PythonNickname = "My friends call me it;
+
+const SocialMedias = null;
+
+const country = "India";
+
+const favmusic = "Believer";
+
+const Hobby = "Programming";
+```
+
+```
+while True:
+
+   eat()
+   
+   program()
+   
+   study()
+   
+   sleep()
+```
