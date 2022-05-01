@@ -1,4 +1,4 @@
-```
+```js
 const name = "Sreehari";
 
 const fullname = "SreehariS";
@@ -16,7 +16,7 @@ const favmusic = "Believer";
 const Hobby = "Programming";
 ```
 
-```
+```py
 while True:
 
    eat()
