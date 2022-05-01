@@ -3,11 +3,11 @@
 const name = "Sreehari";
 const fullname = "SreehariS";
 const nickname = "Programmer or Pythonist";
-const PythonNickname = "My friends call me it";
-const SocialMedias = null;
+const pythonNickname = "My friends call me it";
+const socialMedias = null;
 const country = "India";
 const favmusic = "Believer";
-const Hobby = "Programming";
+const hobby = "Programming";
 
 /* Loop */
 while True:
