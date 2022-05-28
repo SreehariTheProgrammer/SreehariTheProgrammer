@@ -3,15 +3,11 @@ const name = "Sreehari";
 
 const fullname = "SreehariS";
 
-const nickname = "Progremmer or Python";
-
-const PythonNickname = "My friends call me it;
-
-const SocialMedias = null;
+const SocialMedias = SocialMedias.Youtube("SH Tech");
 
 const country = "India";
 
-const favmusic = "Believer";
+const favmusic = ImagineDragons.all_music()";
 
 const Hobby = "Programming";
 ```
